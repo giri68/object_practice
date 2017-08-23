@@ -1,7 +1,7 @@
 'use strict';
 const jon = {
   name: "Jon",
-  job_title: "Teacher"
+  job_title: "Owner"
 };
 
 const giri = {
